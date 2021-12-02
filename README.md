@@ -4,8 +4,7 @@ I need to learn how to use Formik and Yup as packages to validate form input in 
 
 ## Screenshot
 
-![](https://github.com/verusbabb/REACT-SteveBabb-Portfolio/blob/main/public/assets/portfolio3.png)
-![]()
+![](https://github.com/verusbabb/react-formik/blob/main/public/form_screenshot.png)
 
 ## Usage
 
